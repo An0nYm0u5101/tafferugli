@@ -13,3 +13,4 @@ django-taggit
 django-bootstrap4
 django-model-utils
 django-background-tasks
+pillow>=10.0.1 # not directly required, pinned by Snyk to avoid a vulnerability
