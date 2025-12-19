@@ -13,3 +13,4 @@ django-taggit
 django-bootstrap4
 django-model-utils
 django-background-tasks
+fonttools>=4.61.0 # not directly required, pinned by Snyk to avoid a vulnerability
